@@ -8,19 +8,19 @@ This dashboard gives answers to Finance, Sales, Marketing, Supply Chain Teams to
 I worked on this project in Codebasics Power BI course.
 ____________________________________________________________________________________________________________________________
 **Technologies :**
-SQL
-MySQL
-Excel
-Power Bi Desktop
-DAX Language
+SQL,
+MySQL,
+Excel,
+Power Bi Desktop,
+DAX Language,
 DAX studio (for report optimization)
 
 **Power BI techniques learnt:**
-Loading and Transforming data to power BI from database and other files
-Creating calculated columns
-Creating measures using DAX functions
-Data modelling
-Bookmarks to switch between to visuals
+#Loading and Transforming data to power BI from database and other files
+#Creating calculated columns
+#Creating measures using DAX functions
+#Data modelling
+#Bookmarks to switch between to visuals
 Creating toggle button to display existing benchmarks
 Page Navigation
 Tooltips
