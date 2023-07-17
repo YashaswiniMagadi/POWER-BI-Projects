@@ -1,5 +1,5 @@
 # Business Insights 360 Project
-______________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________
 **Project Overview**
 
 AtliQ Hardware is trying to implement data analytics using Power BI to make data driven decisions to expand their market.
@@ -36,5 +36,9 @@ DAX studio (for report optimization)
 *Publishing reports to Power BI services  
 *Setting up personal gateway to auto refresh data    
 *Power Bi app creation  
+____________________________________________________________________________________________________________________________
 
+**Live Dashboard Link** : https://www.novypro.com/project/business-insights-360-dashboard
+
+____________________________________________________________________________________________________________________________
 
