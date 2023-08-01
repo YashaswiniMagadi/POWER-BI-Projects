@@ -38,7 +38,9 @@ DAX studio (for report optimization)
 *Power Bi app creation  
 ____________________________________________________________________________________________________________________________
 
-**Live Dashboard Link** : https://www.novypro.com/project/business-insights-360-dashboard
+**Live Dashboard Link** : 
+https://app.powerbi.com/view?r=eyJrIjoiNjZhZTdlYjAtYTI0OC00Zjc2LTkwMDctYTkyZThjNzE3NGRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ____________________________________________________________________________________________________________________________
 
+This repository also has datasets used in this project along with the .pbix PowerbI report. 
