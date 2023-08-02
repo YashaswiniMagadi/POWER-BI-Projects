@@ -40,5 +40,12 @@ ________________________________________________________________________________
 
 **Live Dashboard Link** : 
 https://app.powerbi.com/view?r=eyJrIjoiNjZhZTdlYjAtYTI0OC00Zjc2LTkwMDctYTkyZThjNzE3NGRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+**Project Screenshots Link:**
+https://github.com/YashaswiniMagadi/1-PowerBI-Business-Insights-360-/tree/main/Project%20screenshots
+
 **Presentation Video link:**
+
+**LinkedIn Post Link:**
+
 ____________________________________________________________________________________________________________________________
