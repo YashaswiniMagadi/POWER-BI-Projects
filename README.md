@@ -44,8 +44,6 @@ https://app.powerbi.com/view?r=eyJrIjoiNjZhZTdlYjAtYTI0OC00Zjc2LTkwMDctYTkyZThjN
 **Project Screenshots Link:**
 https://github.com/YashaswiniMagadi/1-PowerBI-Business-Insights-360-/tree/main/Project%20screenshots
 
-**Presentation Video link:**
-
-**LinkedIn Post Link:**
+**LinkedIn Post Link:** https://www.linkedin.com/feed/update/urn:li:activity:7100931124398309376/
 
 ____________________________________________________________________________________________________________________________
